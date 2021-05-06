@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras.models import Sequential
-tensorflow 2에서 tf.lite.constants.QUANTIZED_UINT8와 같은 deprecated된 값을 사용시 발생한다.
+
 # 모델 경로
 export_dir = "model/my_saved_model"
 
